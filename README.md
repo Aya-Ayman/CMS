@@ -4,5 +4,5 @@ It's an android application to provide services for the banks so that they can k
 # Features
 1- Easy login using the accounts previously provided to the cleaners.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24354705/61996478-fbf07900-b094-11e9-97e8-492bfdbd38cb.png">
+  <img src="https://user-images.githubusercontent.com/24354705/61996566-cd26d280-b095-11e9-8a86-ed57d3d0a731.png">
 </p>
